@@ -23,5 +23,5 @@ require (
 )git clone https://github.com/darkweak/rudy
 cd rudy
 go run rudy.go [command]
-rudy run -u http://bagrada.net
+rudy run -u https://bagrada.net
 rudy server
