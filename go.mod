@@ -24,3 +24,4 @@ require (
 cd rudy
 go run rudy.go [command]
 rudy run -u http://bagrada.net
+rudy server
