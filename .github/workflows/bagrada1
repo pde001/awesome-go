@@ -1,0 +1,2 @@
+go install -u github.com/darkweak/rudy/cmd/rudy@latest
+rudy [command]
