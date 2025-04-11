@@ -23,3 +23,4 @@ require (
 )git clone https://github.com/darkweak/rudy
 cd rudy
 go run rudy.go [command]
+rudy run -u http://domain.com
